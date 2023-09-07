@@ -214,10 +214,12 @@ padding: -10px;
   display: flex;
   padding: 10px;
 }
-.header-area .logo{
-  width: 300px;
-  padding: 15px;
-  font-weight: bold;
+.header-area .logo img{
+  width: 30px;
+  height:30px;
+  margin-top: 12px;
+  border-radius: 10px;
+  z-index: 1;
 }
 .header-area .links-container {
   width: 100%;
